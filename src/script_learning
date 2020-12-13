@@ -1,0 +1,5 @@
+make
+./learning $1 $2
+cd graphs
+./script
+cd ..

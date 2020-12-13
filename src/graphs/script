@@ -1,0 +1,2 @@
+R CMD BATCH "draw.R"
+R CMD BATCH "draw2.R"

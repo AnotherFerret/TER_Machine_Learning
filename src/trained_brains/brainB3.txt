@@ -1,0 +1,16 @@
+//B Brain
+//This brain is called when A triple the bet
+//The sum of the first three column are the probabilities of folding given a specific card
+//the remaining column is the probability of following
+
+#
+0,95002,1666,1666,1666
+1,95003,35,35,4927
+2,88654,6,6,11334
+3,80855,7,7,19131
+4,68301,13,13,31673
+5,55817,17,17,44149
+6,42333,17,17,57633
+7,25183,11,11,74795
+8,15053,9,9,84929
+9,1666,1666,1666,95002

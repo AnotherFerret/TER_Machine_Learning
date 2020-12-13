@@ -1,0 +1,18 @@
+﻿//This is the brain
+//La lecture commencera toujours � #
+
+//Le format est "valeur carte, %de chance de se coucher, de miser, de tripler mise
+//La derni�re ligne est la d�cision du joueur en face
+//0 = inaction, 1 = mis�, 2 = tripl�
+
+#
+0,2500,2500,2500,2500
+1,2500,2500,2500,2500
+2,2500,2500,2500,2500
+3,2500,2500,2500,2500
+4,2500,2500,2500,2500
+5,2500,2500,2500,2500
+6,2500,2500,2500,2500
+7,2500,2500,2500,2500
+8,2500,2500,2500,2500
+9,2500,2500,2500,2500

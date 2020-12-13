@@ -1,0 +1,15 @@
+Cet agent bluff sur les cartes les plus faibles mais se couche tout de même plus souvent que la moyenne sur celle ci
+Il triple et mise de maniere plus reguliere sur les valeurs plus "sures"
+Cet agent a été entrainé sur 20000 parties et a remporté la victoire avec 2095 contre -1095
+
+#
+0,47565,25,16181,36229
+1,43373,33,21009,35585
+2,35064,28,20824,44084
+3,24417,21,24009,51553
+4,16,1920,35580,62484
+5,22,21386,31110,47482
+6,27,24539,32171,43263
+7,28,27892,33088,38992
+8,26,30618,36114,33242
+9,27,32007,32575,35391

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579636376 source:c:\kael\txts & tcg\ter\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<string>
+
